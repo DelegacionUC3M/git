@@ -6,4 +6,4 @@ Esto es un taller de git donde estamos haciendo hamijos.
 
 Estamos aqui reunidos para hacer hamijos.
 
-Morgloz tambien quiere amijos.
+Morgloz quiere invitar a Adri a una palmera.
