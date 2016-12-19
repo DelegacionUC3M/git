@@ -1,4 +1,4 @@
-# Taller de git
+﻿# Taller de git
 
 Esto es un taller de git donde estamos haciendo hamijos.
 
@@ -23,5 +23,6 @@ DEJADME MODIFICARLEÑE
 
 Aqui faltan memes.
 
-ÑAAAAAAAAA
+##Cuatro ejemplo
 
+Quieto, humano. 
